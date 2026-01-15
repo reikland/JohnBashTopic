@@ -1,0 +1,8 @@
+faker
+numpy
+pandas
+pydantic
+requests
+scikit-learn
+streamlit
+pytest
